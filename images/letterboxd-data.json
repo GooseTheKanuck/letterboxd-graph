@@ -5,7 +5,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-06-26T02:46:31.570Z",
+  "generatedAt": "2026-06-27T02:38:43.353Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -17,8 +17,8 @@
     "maxCount": 3
   },
   "stats": {
-    "films": 38,
-    "daysActive": 35,
+    "films": 39,
+    "daysActive": 36,
     "streak": 2
   },
   "monthLabels": [
@@ -6349,10 +6349,17 @@
       "date": "2026-06-24",
       "week": 77,
       "weekday": 3,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 5,
+      "films": [
+        {
+          "title": "Into the Abyss",
+          "year": "2011",
+          "rating": 5,
+          "url": "https://letterboxd.com/goose060/film/into-the-abyss/"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/goose060/diary/films/for/2026/06/24/"
     },
@@ -8955,9 +8962,30 @@
         }
       ],
       "url": "https://letterboxd.com/goose060/diary/films/for/2026/06/16/"
+    },
+    {
+      "date": "2026-06-24",
+      "count": 1,
+      "ratingAvg": 5,
+      "films": [
+        {
+          "title": "Into the Abyss",
+          "year": "2011",
+          "rating": 5,
+          "url": "https://letterboxd.com/goose060/film/into-the-abyss/"
+        }
+      ],
+      "url": "https://letterboxd.com/goose060/diary/films/for/2026/06/24/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-06-24",
+      "title": "Into the Abyss",
+      "year": "2011",
+      "rating": 5,
+      "url": "https://letterboxd.com/goose060/film/into-the-abyss/"
+    },
     {
       "date": "2026-06-16",
       "title": "They Live",
@@ -9020,13 +9048,6 @@
       "year": "2007",
       "rating": 3,
       "url": "https://letterboxd.com/goose060/film/no-country-for-old-men/"
-    },
-    {
-      "date": "2026-04-25",
-      "title": "I-Be Area",
-      "year": "2007",
-      "rating": 0.5,
-      "url": "https://letterboxd.com/goose060/film/i-be-area/"
     }
   ]
 }
