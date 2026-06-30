@@ -5,7 +5,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-06-29T02:51:09.005Z",
+  "generatedAt": "2026-06-30T02:46:17.158Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -6255,12 +6255,12 @@
       "week": 76,
       "weekday": 2,
       "count": 1,
-      "ratingAvg": 3,
+      "ratingAvg": 3.5,
       "films": [
         {
           "title": "They Live",
           "year": "1988",
-          "rating": 3,
+          "rating": 3.5,
           "url": "https://letterboxd.com/goose060/film/they-live/"
         }
       ],
@@ -8952,12 +8952,12 @@
     {
       "date": "2026-06-16",
       "count": 1,
-      "ratingAvg": 3,
+      "ratingAvg": 3.5,
       "films": [
         {
           "title": "They Live",
           "year": "1988",
-          "rating": 3,
+          "rating": 3.5,
           "url": "https://letterboxd.com/goose060/film/they-live/"
         }
       ],
@@ -8990,7 +8990,7 @@
       "date": "2026-06-16",
       "title": "They Live",
       "year": "1988",
-      "rating": 3,
+      "rating": 3.5,
       "url": "https://letterboxd.com/goose060/film/they-live/"
     },
     {
