@@ -5,7 +5,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-07-16T02:01:25.139Z",
+  "generatedAt": "2026-07-17T02:04:13.477Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -17,8 +17,8 @@
     "maxCount": 3
   },
   "stats": {
-    "films": 41,
-    "daysActive": 38,
+    "films": 42,
+    "daysActive": 39,
     "streak": 2
   },
   "monthLabels": [
@@ -6601,10 +6601,17 @@
       "date": "2026-07-15",
       "week": 80,
       "weekday": 3,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "Experiment in Terror",
+          "year": "1962",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/goose060/film/experiment-in-terror/"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/goose060/diary/films/for/2026/07/15/"
     },
@@ -9018,9 +9025,30 @@
         }
       ],
       "url": "https://letterboxd.com/goose060/diary/films/for/2026/07/12/"
+    },
+    {
+      "date": "2026-07-15",
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "Experiment in Terror",
+          "year": "1962",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/goose060/film/experiment-in-terror/"
+        }
+      ],
+      "url": "https://letterboxd.com/goose060/diary/films/for/2026/07/15/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-07-15",
+      "title": "Experiment in Terror",
+      "year": "1962",
+      "rating": 3.5,
+      "url": "https://letterboxd.com/goose060/film/experiment-in-terror/"
+    },
     {
       "date": "2026-07-12",
       "title": "Dazed and Confused",
@@ -9083,13 +9111,6 @@
       "year": "2005",
       "rating": 3,
       "url": "https://letterboxd.com/goose060/film/batman-begins/"
-    },
-    {
-      "date": "2026-05-07",
-      "title": "The Hunt for Red October",
-      "year": "1990",
-      "rating": 4.5,
-      "url": "https://letterboxd.com/goose060/film/the-hunt-for-red-october/"
     }
   ]
 }
