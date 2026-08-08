@@ -5,7 +5,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-08-07T02:23:21.342Z",
+  "generatedAt": "2026-08-08T01:09:34.510Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -17,8 +17,8 @@
     "maxCount": 3
   },
   "stats": {
-    "films": 43,
-    "daysActive": 40,
+    "films": 44,
+    "daysActive": 41,
     "streak": 2
   },
   "monthLabels": [
@@ -6857,10 +6857,17 @@
       "date": "2026-08-06",
       "week": 83,
       "weekday": 4,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 3,
+      "films": [
+        {
+          "title": "Midway",
+          "year": "2019",
+          "rating": 3,
+          "url": "https://letterboxd.com/goose060/film/midway-2019/"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/goose060/diary/films/for/2026/08/06/"
     },
@@ -9060,9 +9067,30 @@
         }
       ],
       "url": "https://letterboxd.com/goose060/diary/films/for/2026/07/22/"
+    },
+    {
+      "date": "2026-08-06",
+      "count": 1,
+      "ratingAvg": 3,
+      "films": [
+        {
+          "title": "Midway",
+          "year": "2019",
+          "rating": 3,
+          "url": "https://letterboxd.com/goose060/film/midway-2019/"
+        }
+      ],
+      "url": "https://letterboxd.com/goose060/diary/films/for/2026/08/06/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-08-06",
+      "title": "Midway",
+      "year": "2019",
+      "rating": 3,
+      "url": "https://letterboxd.com/goose060/film/midway-2019/"
+    },
     {
       "date": "2026-07-22",
       "title": "Up in Smoke",
@@ -9125,13 +9153,6 @@
       "year": "1957",
       "rating": 5,
       "url": "https://letterboxd.com/goose060/film/the-seventh-seal/"
-    },
-    {
-      "date": "2026-05-12",
-      "title": "The Night of the Hunter",
-      "year": "1955",
-      "rating": 4.5,
-      "url": "https://letterboxd.com/goose060/film/the-night-of-the-hunter/"
     }
   ]
 }
