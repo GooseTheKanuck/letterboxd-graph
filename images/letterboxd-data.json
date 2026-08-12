@@ -5,7 +5,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-08-11T01:15:02.735Z",
+  "generatedAt": "2026-08-12T01:22:46.408Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -17,7 +17,7 @@
     "maxCount": 3
   },
   "stats": {
-    "films": 46,
+    "films": 47,
     "daysActive": 42,
     "streak": 2
   },
@@ -6908,9 +6908,15 @@
       "date": "2026-08-10",
       "week": 84,
       "weekday": 1,
-      "count": 2,
-      "ratingAvg": 4.5,
+      "count": 3,
+      "ratingAvg": 4.2,
       "films": [
+        {
+          "title": "The Naked Gun 2½: The Smell of Fear",
+          "year": "1991",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/goose060/film/the-naked-gun-2-the-smell-of-fear/"
+        },
         {
           "title": "Hot Shots!",
           "year": "1991",
@@ -6924,7 +6930,7 @@
           "url": "https://letterboxd.com/goose060/film/anatomy-of-a-murder/"
         }
       ],
-      "level": 3,
+      "level": 4,
       "inRange": true,
       "url": "https://letterboxd.com/goose060/diary/films/for/2026/08/10/"
     },
@@ -9097,9 +9103,15 @@
     },
     {
       "date": "2026-08-10",
-      "count": 2,
-      "ratingAvg": 4.5,
+      "count": 3,
+      "ratingAvg": 4.2,
       "films": [
+        {
+          "title": "The Naked Gun 2½: The Smell of Fear",
+          "year": "1991",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/goose060/film/the-naked-gun-2-the-smell-of-fear/"
+        },
         {
           "title": "Hot Shots!",
           "year": "1991",
@@ -9117,6 +9129,13 @@
     }
   ],
   "recent": [
+    {
+      "date": "2026-08-10",
+      "title": "The Naked Gun 2½: The Smell of Fear",
+      "year": "1991",
+      "rating": 3.5,
+      "url": "https://letterboxd.com/goose060/film/the-naked-gun-2-the-smell-of-fear/"
+    },
     {
       "date": "2026-08-10",
       "title": "Hot Shots!",
@@ -9179,13 +9198,6 @@
       "year": "1988",
       "rating": 3.5,
       "url": "https://letterboxd.com/goose060/film/they-live/"
-    },
-    {
-      "date": "2026-06-04",
-      "title": "High Society",
-      "year": "1956",
-      "rating": 3.5,
-      "url": "https://letterboxd.com/goose060/film/high-society/"
     }
   ]
 }
