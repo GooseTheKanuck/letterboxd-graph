@@ -5,7 +5,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-08-23T00:56:09.809Z",
+  "generatedAt": "2026-08-24T00:54:09.883Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -17,8 +17,8 @@
     "maxCount": 3
   },
   "stats": {
-    "films": 49,
-    "daysActive": 44,
+    "films": 53,
+    "daysActive": 46,
     "streak": 2
   },
   "monthLabels": [
@@ -6971,9 +6971,15 @@
       "date": "2026-08-14",
       "week": 84,
       "weekday": 5,
-      "count": 1,
-      "ratingAvg": 5,
+      "count": 2,
+      "ratingAvg": 3.5,
       "films": [
+        {
+          "title": "Wieners",
+          "year": "2008",
+          "rating": 2,
+          "url": "https://letterboxd.com/goose060/film/wieners/"
+        },
         {
           "title": "Encino Man",
           "year": "1992",
@@ -6981,7 +6987,7 @@
           "url": "https://letterboxd.com/goose060/film/encino-man/"
         }
       ],
-      "level": 2,
+      "level": 3,
       "inRange": true,
       "url": "https://letterboxd.com/goose060/diary/films/for/2026/08/14/"
     },
@@ -6989,17 +6995,10 @@
       "date": "2026-08-15",
       "week": 84,
       "weekday": 6,
-      "count": 1,
-      "ratingAvg": 2,
-      "films": [
-        {
-          "title": "Wieners",
-          "year": "2008",
-          "rating": 2,
-          "url": "https://letterboxd.com/goose060/film/wieners/"
-        }
-      ],
-      "level": 2,
+      "count": 0,
+      "ratingAvg": null,
+      "films": [],
+      "level": 0,
       "inRange": true,
       "url": "https://letterboxd.com/goose060/diary/films/for/2026/08/15/"
     },
@@ -7007,10 +7006,23 @@
       "date": "2026-08-16",
       "week": 85,
       "weekday": 0,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 2,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "Holmes & Watson",
+          "year": "2018",
+          "rating": 4,
+          "url": "https://letterboxd.com/goose060/film/holmes-watson/"
+        },
+        {
+          "title": "Jackass Forever",
+          "year": "2022",
+          "rating": 3,
+          "url": "https://letterboxd.com/goose060/film/jackass-forever/"
+        }
+      ],
+      "level": 3,
       "inRange": true,
       "url": "https://letterboxd.com/goose060/diary/films/for/2026/08/16/"
     },
@@ -7018,10 +7030,17 @@
       "date": "2026-08-17",
       "week": 85,
       "weekday": 1,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 4.5,
+      "films": [
+        {
+          "title": "Going in Style",
+          "year": "2017",
+          "rating": 4.5,
+          "url": "https://letterboxd.com/goose060/film/going-in-style-2017/"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/goose060/diary/films/for/2026/08/17/"
     },
@@ -7040,10 +7059,17 @@
       "date": "2026-08-19",
       "week": 85,
       "weekday": 3,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 5,
+      "films": [
+        {
+          "title": "The Town",
+          "year": "2010",
+          "rating": 5,
+          "url": "https://letterboxd.com/goose060/film/the-town/"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/goose060/diary/films/for/2026/08/19/"
     },
@@ -9143,9 +9169,15 @@
     },
     {
       "date": "2026-08-14",
-      "count": 1,
-      "ratingAvg": 5,
+      "count": 2,
+      "ratingAvg": 3.5,
       "films": [
+        {
+          "title": "Wieners",
+          "year": "2008",
+          "rating": 2,
+          "url": "https://letterboxd.com/goose060/film/wieners/"
+        },
         {
           "title": "Encino Man",
           "year": "1992",
@@ -9156,23 +9188,85 @@
       "url": "https://letterboxd.com/goose060/diary/films/for/2026/08/14/"
     },
     {
-      "date": "2026-08-15",
-      "count": 1,
-      "ratingAvg": 2,
+      "date": "2026-08-16",
+      "count": 2,
+      "ratingAvg": 3.5,
       "films": [
         {
-          "title": "Wieners",
-          "year": "2008",
-          "rating": 2,
-          "url": "https://letterboxd.com/goose060/film/wieners/"
+          "title": "Holmes & Watson",
+          "year": "2018",
+          "rating": 4,
+          "url": "https://letterboxd.com/goose060/film/holmes-watson/"
+        },
+        {
+          "title": "Jackass Forever",
+          "year": "2022",
+          "rating": 3,
+          "url": "https://letterboxd.com/goose060/film/jackass-forever/"
         }
       ],
-      "url": "https://letterboxd.com/goose060/diary/films/for/2026/08/15/"
+      "url": "https://letterboxd.com/goose060/diary/films/for/2026/08/16/"
+    },
+    {
+      "date": "2026-08-17",
+      "count": 1,
+      "ratingAvg": 4.5,
+      "films": [
+        {
+          "title": "Going in Style",
+          "year": "2017",
+          "rating": 4.5,
+          "url": "https://letterboxd.com/goose060/film/going-in-style-2017/"
+        }
+      ],
+      "url": "https://letterboxd.com/goose060/diary/films/for/2026/08/17/"
+    },
+    {
+      "date": "2026-08-19",
+      "count": 1,
+      "ratingAvg": 5,
+      "films": [
+        {
+          "title": "The Town",
+          "year": "2010",
+          "rating": 5,
+          "url": "https://letterboxd.com/goose060/film/the-town/"
+        }
+      ],
+      "url": "https://letterboxd.com/goose060/diary/films/for/2026/08/19/"
     }
   ],
   "recent": [
     {
-      "date": "2026-08-15",
+      "date": "2026-08-19",
+      "title": "The Town",
+      "year": "2010",
+      "rating": 5,
+      "url": "https://letterboxd.com/goose060/film/the-town/"
+    },
+    {
+      "date": "2026-08-17",
+      "title": "Going in Style",
+      "year": "2017",
+      "rating": 4.5,
+      "url": "https://letterboxd.com/goose060/film/going-in-style-2017/"
+    },
+    {
+      "date": "2026-08-16",
+      "title": "Holmes & Watson",
+      "year": "2018",
+      "rating": 4,
+      "url": "https://letterboxd.com/goose060/film/holmes-watson/"
+    },
+    {
+      "date": "2026-08-16",
+      "title": "Jackass Forever",
+      "year": "2022",
+      "rating": 3,
+      "url": "https://letterboxd.com/goose060/film/jackass-forever/"
+    },
+    {
+      "date": "2026-08-14",
       "title": "Wieners",
       "year": "2008",
       "rating": 2,
@@ -9212,34 +9306,6 @@
       "year": "2019",
       "rating": 3,
       "url": "https://letterboxd.com/goose060/film/midway-2019/"
-    },
-    {
-      "date": "2026-07-22",
-      "title": "Up in Smoke",
-      "year": "1978",
-      "rating": 4,
-      "url": "https://letterboxd.com/goose060/film/up-in-smoke-1978/"
-    },
-    {
-      "date": "2026-07-15",
-      "title": "Experiment in Terror",
-      "year": "1962",
-      "rating": 3.5,
-      "url": "https://letterboxd.com/goose060/film/experiment-in-terror/"
-    },
-    {
-      "date": "2026-07-12",
-      "title": "Dazed and Confused",
-      "year": "1993",
-      "rating": 5,
-      "url": "https://letterboxd.com/goose060/film/dazed-and-confused/"
-    },
-    {
-      "date": "2026-07-11",
-      "title": "Fear and Loathing in Las Vegas",
-      "year": "1998",
-      "rating": 4,
-      "url": "https://letterboxd.com/goose060/film/fear-and-loathing-in-las-vegas/"
     }
   ]
 }
