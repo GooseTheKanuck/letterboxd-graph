@@ -5,7 +5,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-08-28T08:28:02.969Z",
+  "generatedAt": "2026-08-29T05:08:13.298Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -17,8 +17,8 @@
     "maxCount": 3
   },
   "stats": {
-    "films": 53,
-    "daysActive": 46,
+    "films": 54,
+    "daysActive": 47,
     "streak": 2
   },
   "monthLabels": [
@@ -7165,10 +7165,17 @@
       "date": "2026-08-28",
       "week": 86,
       "weekday": 5,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 5,
+      "films": [
+        {
+          "title": "Blade Runner",
+          "year": "1982",
+          "rating": 5,
+          "url": "https://letterboxd.com/goose060/film/blade-runner/"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/goose060/diary/films/for/2026/08/28/"
     },
@@ -9234,9 +9241,30 @@
         }
       ],
       "url": "https://letterboxd.com/goose060/diary/films/for/2026/08/19/"
+    },
+    {
+      "date": "2026-08-28",
+      "count": 1,
+      "ratingAvg": 5,
+      "films": [
+        {
+          "title": "Blade Runner",
+          "year": "1982",
+          "rating": 5,
+          "url": "https://letterboxd.com/goose060/film/blade-runner/"
+        }
+      ],
+      "url": "https://letterboxd.com/goose060/diary/films/for/2026/08/28/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-08-28",
+      "title": "Blade Runner",
+      "year": "1982",
+      "rating": 5,
+      "url": "https://letterboxd.com/goose060/film/blade-runner/"
+    },
     {
       "date": "2026-08-19",
       "title": "The Town",
@@ -9299,13 +9327,6 @@
       "year": "1959",
       "rating": 4,
       "url": "https://letterboxd.com/goose060/film/anatomy-of-a-murder/"
-    },
-    {
-      "date": "2026-08-06",
-      "title": "Midway",
-      "year": "2019",
-      "rating": 3,
-      "url": "https://letterboxd.com/goose060/film/midway-2019/"
     }
   ]
 }
