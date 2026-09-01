@@ -5,7 +5,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-08-31T02:52:57.331Z",
+  "generatedAt": "2026-09-01T03:01:27.913Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -17,8 +17,8 @@
     "maxCount": 3
   },
   "stats": {
-    "films": 54,
-    "daysActive": 47,
+    "films": 55,
+    "daysActive": 48,
     "streak": 2
   },
   "monthLabels": [
@@ -7194,10 +7194,17 @@
       "date": "2026-08-30",
       "week": 87,
       "weekday": 0,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 5,
+      "films": [
+        {
+          "title": "The Usual Suspects",
+          "year": "1995",
+          "rating": 5,
+          "url": "https://letterboxd.com/goose060/film/the-usual-suspects/"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/goose060/diary/films/for/2026/08/30/"
     },
@@ -9255,9 +9262,30 @@
         }
       ],
       "url": "https://letterboxd.com/goose060/diary/films/for/2026/08/28/"
+    },
+    {
+      "date": "2026-08-30",
+      "count": 1,
+      "ratingAvg": 5,
+      "films": [
+        {
+          "title": "The Usual Suspects",
+          "year": "1995",
+          "rating": 5,
+          "url": "https://letterboxd.com/goose060/film/the-usual-suspects/"
+        }
+      ],
+      "url": "https://letterboxd.com/goose060/diary/films/for/2026/08/30/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-08-30",
+      "title": "The Usual Suspects",
+      "year": "1995",
+      "rating": 5,
+      "url": "https://letterboxd.com/goose060/film/the-usual-suspects/"
+    },
     {
       "date": "2026-08-28",
       "title": "Blade Runner",
@@ -9320,13 +9348,6 @@
       "year": "1991",
       "rating": 5,
       "url": "https://letterboxd.com/goose060/film/hot-shots/"
-    },
-    {
-      "date": "2026-08-10",
-      "title": "Anatomy of a Murder",
-      "year": "1959",
-      "rating": 4,
-      "url": "https://letterboxd.com/goose060/film/anatomy-of-a-murder/"
     }
   ]
 }
