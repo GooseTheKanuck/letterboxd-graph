@@ -5,7 +5,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-09-03T02:29:21.224Z",
+  "generatedAt": "2026-09-04T02:27:09.469Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -17,8 +17,8 @@
     "maxCount": 3
   },
   "stats": {
-    "films": 55,
-    "daysActive": 48,
+    "films": 56,
+    "daysActive": 49,
     "streak": 2
   },
   "monthLabels": [
@@ -7234,10 +7234,17 @@
       "date": "2026-09-02",
       "week": 87,
       "weekday": 3,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "Up in Smoke",
+          "year": "1978",
+          "rating": 4,
+          "url": "https://letterboxd.com/goose060/film/up-in-smoke-1978/1/"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/goose060/diary/films/for/2026/09/02/"
     },
@@ -9276,9 +9283,30 @@
         }
       ],
       "url": "https://letterboxd.com/goose060/diary/films/for/2026/08/30/"
+    },
+    {
+      "date": "2026-09-02",
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "Up in Smoke",
+          "year": "1978",
+          "rating": 4,
+          "url": "https://letterboxd.com/goose060/film/up-in-smoke-1978/1/"
+        }
+      ],
+      "url": "https://letterboxd.com/goose060/diary/films/for/2026/09/02/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-09-02",
+      "title": "Up in Smoke",
+      "year": "1978",
+      "rating": 4,
+      "url": "https://letterboxd.com/goose060/film/up-in-smoke-1978/1/"
+    },
     {
       "date": "2026-08-30",
       "title": "The Usual Suspects",
@@ -9341,13 +9369,6 @@
       "year": "1991",
       "rating": 3.5,
       "url": "https://letterboxd.com/goose060/film/the-naked-gun-2-the-smell-of-fear/"
-    },
-    {
-      "date": "2026-08-10",
-      "title": "Hot Shots!",
-      "year": "1991",
-      "rating": 5,
-      "url": "https://letterboxd.com/goose060/film/hot-shots/"
     }
   ]
 }
