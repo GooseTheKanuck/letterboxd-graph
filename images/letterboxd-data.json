@@ -5,7 +5,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-09-08T02:31:19.792Z",
+  "generatedAt": "2026-09-09T02:32:44.387Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -17,8 +17,8 @@
     "maxCount": 3
   },
   "stats": {
-    "films": 56,
-    "daysActive": 49,
+    "films": 57,
+    "daysActive": 50,
     "streak": 2
   },
   "monthLabels": [
@@ -7296,10 +7296,17 @@
       "date": "2026-09-07",
       "week": 88,
       "weekday": 1,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 5,
+      "films": [
+        {
+          "title": "Aftersun",
+          "year": "2022",
+          "rating": 5,
+          "url": "https://letterboxd.com/goose060/film/aftersun/"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/goose060/diary/films/for/2026/09/07/"
     },
@@ -9297,9 +9304,30 @@
         }
       ],
       "url": "https://letterboxd.com/goose060/diary/films/for/2026/09/02/"
+    },
+    {
+      "date": "2026-09-07",
+      "count": 1,
+      "ratingAvg": 5,
+      "films": [
+        {
+          "title": "Aftersun",
+          "year": "2022",
+          "rating": 5,
+          "url": "https://letterboxd.com/goose060/film/aftersun/"
+        }
+      ],
+      "url": "https://letterboxd.com/goose060/diary/films/for/2026/09/07/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-09-07",
+      "title": "Aftersun",
+      "year": "2022",
+      "rating": 5,
+      "url": "https://letterboxd.com/goose060/film/aftersun/"
+    },
     {
       "date": "2026-09-02",
       "title": "Up in Smoke",
@@ -9362,13 +9390,6 @@
       "year": "1992",
       "rating": 5,
       "url": "https://letterboxd.com/goose060/film/encino-man/"
-    },
-    {
-      "date": "2026-08-10",
-      "title": "The Naked Gun 2½: The Smell of Fear",
-      "year": "1991",
-      "rating": 3.5,
-      "url": "https://letterboxd.com/goose060/film/the-naked-gun-2-the-smell-of-fear/"
     }
   ]
 }
