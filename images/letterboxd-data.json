@@ -5,7 +5,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-09-23T02:49:40.570Z",
+  "generatedAt": "2026-09-24T02:40:06.083Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -17,8 +17,8 @@
     "maxCount": 14
   },
   "stats": {
-    "films": 71,
-    "daysActive": 51,
+    "films": 72,
+    "daysActive": 52,
     "streak": 2
   },
   "monthLabels": [
@@ -7542,10 +7542,17 @@
       "date": "2026-09-21",
       "week": 90,
       "weekday": 1,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "This Is Spinal Tap",
+          "year": "1984",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/goose060/film/this-is-spinal-tap/"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/goose060/diary/films/for/2026/09/21/"
     },
@@ -9495,9 +9502,30 @@
         }
       ],
       "url": "https://letterboxd.com/goose060/diary/films/for/2026/09/09/"
+    },
+    {
+      "date": "2026-09-21",
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "This Is Spinal Tap",
+          "year": "1984",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/goose060/film/this-is-spinal-tap/"
+        }
+      ],
+      "url": "https://letterboxd.com/goose060/diary/films/for/2026/09/21/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-09-21",
+      "title": "This Is Spinal Tap",
+      "year": "1984",
+      "rating": 3.5,
+      "url": "https://letterboxd.com/goose060/film/this-is-spinal-tap/"
+    },
     {
       "date": "2026-09-09",
       "title": "The Ballad of Crowfoot",
@@ -9560,13 +9588,6 @@
       "year": "1970",
       "rating": 2.5,
       "url": "https://letterboxd.com/goose060/film/variations-on-a-cellophane-wrapper/"
-    },
-    {
-      "date": "2026-09-09",
-      "title": "Boerdery",
-      "year": "1985",
-      "rating": 5,
-      "url": "https://letterboxd.com/goose060/film/boerdery/"
     }
   ]
 }
