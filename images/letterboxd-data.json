@@ -5,7 +5,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-09-28T03:01:27.545Z",
+  "generatedAt": "2026-09-29T03:41:28.219Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -17,8 +17,8 @@
     "maxCount": 14
   },
   "stats": {
-    "films": 72,
-    "daysActive": 52,
+    "films": 73,
+    "daysActive": 53,
     "streak": 2
   },
   "monthLabels": [
@@ -7615,10 +7615,17 @@
       "date": "2026-09-27",
       "week": 91,
       "weekday": 0,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 4.5,
+      "films": [
+        {
+          "title": "The Killing",
+          "year": "1956",
+          "rating": 4.5,
+          "url": "https://letterboxd.com/goose060/film/the-killing/"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/goose060/diary/films/for/2026/09/27/"
     },
@@ -9516,9 +9523,30 @@
         }
       ],
       "url": "https://letterboxd.com/goose060/diary/films/for/2026/09/21/"
+    },
+    {
+      "date": "2026-09-27",
+      "count": 1,
+      "ratingAvg": 4.5,
+      "films": [
+        {
+          "title": "The Killing",
+          "year": "1956",
+          "rating": 4.5,
+          "url": "https://letterboxd.com/goose060/film/the-killing/"
+        }
+      ],
+      "url": "https://letterboxd.com/goose060/diary/films/for/2026/09/27/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-09-27",
+      "title": "The Killing",
+      "year": "1956",
+      "rating": 4.5,
+      "url": "https://letterboxd.com/goose060/film/the-killing/"
+    },
     {
       "date": "2026-09-21",
       "title": "This Is Spinal Tap",
@@ -9581,13 +9609,6 @@
       "year": "2011",
       "rating": 2,
       "url": "https://letterboxd.com/goose060/film/one-roll-in-the-blackness/"
-    },
-    {
-      "date": "2026-09-09",
-      "title": "Variations on a Cellophane Wrapper",
-      "year": "1970",
-      "rating": 2.5,
-      "url": "https://letterboxd.com/goose060/film/variations-on-a-cellophane-wrapper/"
     }
   ]
 }
