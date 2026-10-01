@@ -5,7 +5,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-09-30T03:28:24.991Z",
+  "generatedAt": "2026-10-01T03:33:37.246Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -17,8 +17,8 @@
     "maxCount": 14
   },
   "stats": {
-    "films": 73,
-    "daysActive": 53,
+    "films": 74,
+    "daysActive": 54,
     "streak": 2
   },
   "monthLabels": [
@@ -7644,10 +7644,17 @@
       "date": "2026-09-29",
       "week": 91,
       "weekday": 2,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 5,
+      "films": [
+        {
+          "title": "The Silence of the Lambs",
+          "year": "1991",
+          "rating": 5,
+          "url": "https://letterboxd.com/goose060/film/the-silence-of-the-lambs/"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/goose060/diary/films/for/2026/09/29/"
     },
@@ -9537,9 +9544,30 @@
         }
       ],
       "url": "https://letterboxd.com/goose060/diary/films/for/2026/09/27/"
+    },
+    {
+      "date": "2026-09-29",
+      "count": 1,
+      "ratingAvg": 5,
+      "films": [
+        {
+          "title": "The Silence of the Lambs",
+          "year": "1991",
+          "rating": 5,
+          "url": "https://letterboxd.com/goose060/film/the-silence-of-the-lambs/"
+        }
+      ],
+      "url": "https://letterboxd.com/goose060/diary/films/for/2026/09/29/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-09-29",
+      "title": "The Silence of the Lambs",
+      "year": "1991",
+      "rating": 5,
+      "url": "https://letterboxd.com/goose060/film/the-silence-of-the-lambs/"
+    },
     {
       "date": "2026-09-27",
       "title": "The Killing",
@@ -9602,13 +9630,6 @@
       "year": "1943",
       "rating": 5,
       "url": "https://letterboxd.com/goose060/film/meshes-of-the-afternoon/"
-    },
-    {
-      "date": "2026-09-09",
-      "title": "One Roll in the Blackness",
-      "year": "2011",
-      "rating": 2,
-      "url": "https://letterboxd.com/goose060/film/one-roll-in-the-blackness/"
     }
   ]
 }
