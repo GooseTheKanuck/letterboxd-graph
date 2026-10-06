@@ -5,7 +5,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-10-05T03:30:41.929Z",
+  "generatedAt": "2026-10-06T04:20:12.018Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -17,8 +17,8 @@
     "maxCount": 14
   },
   "stats": {
-    "films": 75,
-    "daysActive": 55,
+    "films": 76,
+    "daysActive": 56,
     "streak": 2
   },
   "monthLabels": [
@@ -7724,10 +7724,17 @@
       "date": "2026-10-05",
       "week": 92,
       "weekday": 1,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "Fast Times at Ridgemont High",
+          "year": "1982",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/goose060/film/fast-times-at-ridgemont-high/"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/goose060/diary/films/for/2026/10/05/"
     },
@@ -9579,9 +9586,30 @@
         }
       ],
       "url": "https://letterboxd.com/goose060/diary/films/for/2026/10/04/"
+    },
+    {
+      "date": "2026-10-05",
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "Fast Times at Ridgemont High",
+          "year": "1982",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/goose060/film/fast-times-at-ridgemont-high/"
+        }
+      ],
+      "url": "https://letterboxd.com/goose060/diary/films/for/2026/10/05/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-10-05",
+      "title": "Fast Times at Ridgemont High",
+      "year": "1982",
+      "rating": 3.5,
+      "url": "https://letterboxd.com/goose060/film/fast-times-at-ridgemont-high/"
+    },
     {
       "date": "2026-10-04",
       "title": "Nice Dreams",
@@ -9644,13 +9672,6 @@
       "year": "1975",
       "rating": 5,
       "url": "https://letterboxd.com/goose060/film/coney/"
-    },
-    {
-      "date": "2026-09-09",
-      "title": "Prima Materia",
-      "year": "2015",
-      "rating": 4,
-      "url": "https://letterboxd.com/goose060/film/prima-materia/"
     }
   ]
 }
