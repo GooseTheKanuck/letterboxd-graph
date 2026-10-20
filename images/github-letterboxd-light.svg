@@ -128,11 +128,11 @@
         <text x="142" y="53" font-size="8" fill="#1f2328" text-anchor="middle">11</text>
         <rect x="135" y="56" width="14" height="24" rx="2" fill="#30a14e"/>
         <text x="142" y="98" font-size="7" fill="#1f2328" text-anchor="middle">3</text>
-        <text x="166" y="56" font-size="8" fill="#1f2328" text-anchor="middle">10</text>
-        <rect x="159" y="59" width="14" height="21" rx="2" fill="#216e39"/>
+        <text x="166" y="58" font-size="8" fill="#1f2328" text-anchor="middle">9</text>
+        <rect x="159" y="61" width="14" height="19" rx="2" fill="#216e39"/>
         <text x="166" y="98" font-size="7" fill="#1f2328" text-anchor="middle">3.5</text>
-        <text x="190" y="51" font-size="8" fill="#1f2328" text-anchor="middle">12</text>
-        <rect x="183" y="54" width="14" height="26" rx="2" fill="#216e39"/>
+        <text x="190" y="49" font-size="8" fill="#1f2328" text-anchor="middle">13</text>
+        <rect x="183" y="52" width="14" height="28" rx="2" fill="#216e39"/>
         <text x="190" y="98" font-size="7" fill="#1f2328" text-anchor="middle">4</text>
         <text x="214" y="62" font-size="8" fill="#1f2328" text-anchor="middle">7</text>
         <rect x="207" y="65" width="14" height="15" rx="2" fill="#216e39"/>
@@ -1881,11 +1881,11 @@
           rx="2"
           fill="#9be9a8"
         />
-        <g class="tooltip-group" transform="translate(631, -47)">
-          <rect x="0" y="0" width="308" height="56" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(645, -47)">
+          <rect x="0" y="0" width="294" height="56" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#1f2328">
             <tspan x="10" dy="22" font-weight="600">Mon, 5. Oct 2026: 1 movie watched</tspan>
-            <tspan x="10" dy="18">• Fast Times at Ridgemont High (1982) - 3.5★</tspan>
+            <tspan x="10" dy="18">• Fast Times at Ridgemont High (1982) - 4★</tspan>
           </text>
         </g>
       </a>

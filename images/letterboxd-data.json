@@ -5,7 +5,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-10-19T02:48:43.561Z",
+  "generatedAt": "2026-10-20T02:59:45.582Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -7725,12 +7725,12 @@
       "week": 92,
       "weekday": 1,
       "count": 1,
-      "ratingAvg": 3.5,
+      "ratingAvg": 4,
       "films": [
         {
           "title": "Fast Times at Ridgemont High",
           "year": "1982",
-          "rating": 3.5,
+          "rating": 4,
           "url": "https://letterboxd.com/goose060/film/fast-times-at-ridgemont-high/"
         }
       ],
@@ -9590,12 +9590,12 @@
     {
       "date": "2026-10-05",
       "count": 1,
-      "ratingAvg": 3.5,
+      "ratingAvg": 4,
       "films": [
         {
           "title": "Fast Times at Ridgemont High",
           "year": "1982",
-          "rating": 3.5,
+          "rating": 4,
           "url": "https://letterboxd.com/goose060/film/fast-times-at-ridgemont-high/"
         }
       ],
@@ -9607,7 +9607,7 @@
       "date": "2026-10-05",
       "title": "Fast Times at Ridgemont High",
       "year": "1982",
-      "rating": 3.5,
+      "rating": 4,
       "url": "https://letterboxd.com/goose060/film/fast-times-at-ridgemont-high/"
     },
     {
