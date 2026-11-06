@@ -5,7 +5,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-05T04:43:45.972Z",
+  "generatedAt": "2026-11-06T04:43:06.519Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -17,8 +17,8 @@
     "maxCount": 14
   },
   "stats": {
-    "films": 76,
-    "daysActive": 56,
+    "films": 77,
+    "daysActive": 57,
     "streak": 2
   },
   "monthLabels": [
@@ -8072,10 +8072,17 @@
       "date": "2026-11-05",
       "week": 96,
       "weekday": 4,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 3,
+      "films": [
+        {
+          "title": "Harold & Kumar Go to White Castle",
+          "year": "2004",
+          "rating": 3,
+          "url": "https://letterboxd.com/goose060/film/harold-kumar-go-to-white-castle/"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/goose060/diary/films/for/2026/11/05/"
     },
@@ -9600,9 +9607,30 @@
         }
       ],
       "url": "https://letterboxd.com/goose060/diary/films/for/2026/10/05/"
+    },
+    {
+      "date": "2026-11-05",
+      "count": 1,
+      "ratingAvg": 3,
+      "films": [
+        {
+          "title": "Harold & Kumar Go to White Castle",
+          "year": "2004",
+          "rating": 3,
+          "url": "https://letterboxd.com/goose060/film/harold-kumar-go-to-white-castle/"
+        }
+      ],
+      "url": "https://letterboxd.com/goose060/diary/films/for/2026/11/05/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-11-05",
+      "title": "Harold & Kumar Go to White Castle",
+      "year": "2004",
+      "rating": 3,
+      "url": "https://letterboxd.com/goose060/film/harold-kumar-go-to-white-castle/"
+    },
     {
       "date": "2026-10-05",
       "title": "Fast Times at Ridgemont High",
@@ -9665,13 +9693,6 @@
       "year": "1977",
       "rating": 4,
       "url": "https://letterboxd.com/goose060/film/wild-night-in-el-reno/"
-    },
-    {
-      "date": "2026-09-09",
-      "title": "Coney",
-      "year": "1975",
-      "rating": 5,
-      "url": "https://letterboxd.com/goose060/film/coney/"
     }
   ]
 }
