@@ -5,7 +5,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-11T04:10:59.063Z",
+  "generatedAt": "2026-11-12T05:22:19.786Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -17,8 +17,8 @@
     "maxCount": 14
   },
   "stats": {
-    "films": 77,
-    "daysActive": 57,
+    "films": 78,
+    "daysActive": 58,
     "streak": 2
   },
   "monthLabels": [
@@ -8134,10 +8134,17 @@
       "date": "2026-11-10",
       "week": 97,
       "weekday": 2,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "Odds Against Tomorrow",
+          "year": "1959",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/goose060/film/odds-against-tomorrow/"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/goose060/diary/films/for/2026/11/10/"
     },
@@ -9621,9 +9628,30 @@
         }
       ],
       "url": "https://letterboxd.com/goose060/diary/films/for/2026/11/05/"
+    },
+    {
+      "date": "2026-11-10",
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "Odds Against Tomorrow",
+          "year": "1959",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/goose060/film/odds-against-tomorrow/"
+        }
+      ],
+      "url": "https://letterboxd.com/goose060/diary/films/for/2026/11/10/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-11-10",
+      "title": "Odds Against Tomorrow",
+      "year": "1959",
+      "rating": 3.5,
+      "url": "https://letterboxd.com/goose060/film/odds-against-tomorrow/"
+    },
     {
       "date": "2026-11-05",
       "title": "Harold & Kumar Go to White Castle",
@@ -9686,13 +9714,6 @@
       "year": "1988",
       "rating": 3,
       "url": "https://letterboxd.com/goose060/film/sss/"
-    },
-    {
-      "date": "2026-09-09",
-      "title": "Wild Night in El Reno",
-      "year": "1977",
-      "rating": 4,
-      "url": "https://letterboxd.com/goose060/film/wild-night-in-el-reno/"
     }
   ]
 }
