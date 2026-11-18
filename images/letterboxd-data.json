@@ -5,7 +5,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-17T06:04:05.075Z",
+  "generatedAt": "2026-11-18T05:33:53.316Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -17,8 +17,8 @@
     "maxCount": 14
   },
   "stats": {
-    "films": 78,
-    "daysActive": 58,
+    "films": 80,
+    "daysActive": 59,
     "streak": 2
   },
   "monthLabels": [
@@ -8218,10 +8218,23 @@
       "date": "2026-11-17",
       "week": 98,
       "weekday": 2,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 2,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "The Wolf House",
+          "year": "2018",
+          "rating": 4.5,
+          "url": "https://letterboxd.com/goose060/film/the-wolf-house/"
+        },
+        {
+          "title": "Taxi Driver",
+          "year": "1976",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/goose060/film/taxi-driver/1/"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/goose060/diary/films/for/2026/11/17/"
     },
@@ -9642,9 +9655,43 @@
         }
       ],
       "url": "https://letterboxd.com/goose060/diary/films/for/2026/11/10/"
+    },
+    {
+      "date": "2026-11-17",
+      "count": 2,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "The Wolf House",
+          "year": "2018",
+          "rating": 4.5,
+          "url": "https://letterboxd.com/goose060/film/the-wolf-house/"
+        },
+        {
+          "title": "Taxi Driver",
+          "year": "1976",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/goose060/film/taxi-driver/1/"
+        }
+      ],
+      "url": "https://letterboxd.com/goose060/diary/films/for/2026/11/17/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-11-17",
+      "title": "The Wolf House",
+      "year": "2018",
+      "rating": 4.5,
+      "url": "https://letterboxd.com/goose060/film/the-wolf-house/"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "Taxi Driver",
+      "year": "1976",
+      "rating": 3.5,
+      "url": "https://letterboxd.com/goose060/film/taxi-driver/1/"
+    },
     {
       "date": "2026-11-10",
       "title": "Odds Against Tomorrow",
@@ -9700,20 +9747,6 @@
       "year": "1968",
       "rating": 4,
       "url": "https://letterboxd.com/goose060/film/the-ballad-of-crowfoot/"
-    },
-    {
-      "date": "2026-09-09",
-      "title": "Free Fall",
-      "year": "1964",
-      "rating": 3.5,
-      "url": "https://letterboxd.com/goose060/film/free-fall-1964/"
-    },
-    {
-      "date": "2026-09-09",
-      "title": "SSS",
-      "year": "1988",
-      "rating": 3,
-      "url": "https://letterboxd.com/goose060/film/sss/"
     }
   ]
 }
