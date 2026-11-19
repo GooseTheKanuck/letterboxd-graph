@@ -5,7 +5,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-18T05:33:53.316Z",
+  "generatedAt": "2026-11-19T05:32:20.641Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -17,8 +17,8 @@
     "maxCount": 14
   },
   "stats": {
-    "films": 80,
-    "daysActive": 59,
+    "films": 81,
+    "daysActive": 60,
     "streak": 2
   },
   "monthLabels": [
@@ -8242,10 +8242,17 @@
       "date": "2026-11-18",
       "week": 98,
       "weekday": 3,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "Elevator to the Gallows",
+          "year": "1958",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/goose060/film/elevator-to-the-gallows/"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/goose060/diary/films/for/2026/11/18/"
     },
@@ -9675,9 +9682,30 @@
         }
       ],
       "url": "https://letterboxd.com/goose060/diary/films/for/2026/11/17/"
+    },
+    {
+      "date": "2026-11-18",
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "Elevator to the Gallows",
+          "year": "1958",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/goose060/film/elevator-to-the-gallows/"
+        }
+      ],
+      "url": "https://letterboxd.com/goose060/diary/films/for/2026/11/18/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-11-18",
+      "title": "Elevator to the Gallows",
+      "year": "1958",
+      "rating": 3.5,
+      "url": "https://letterboxd.com/goose060/film/elevator-to-the-gallows/"
+    },
     {
       "date": "2026-11-17",
       "title": "The Wolf House",
@@ -9740,13 +9768,6 @@
       "year": "1984",
       "rating": 3.5,
       "url": "https://letterboxd.com/goose060/film/this-is-spinal-tap/"
-    },
-    {
-      "date": "2026-09-09",
-      "title": "The Ballad of Crowfoot",
-      "year": "1968",
-      "rating": 4,
-      "url": "https://letterboxd.com/goose060/film/the-ballad-of-crowfoot/"
     }
   ]
 }
