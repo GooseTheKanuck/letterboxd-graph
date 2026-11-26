@@ -5,7 +5,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-25T06:32:43.684Z",
+  "generatedAt": "2026-11-26T06:24:08.165Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -17,8 +17,8 @@
     "maxCount": 14
   },
   "stats": {
-    "films": 82,
-    "daysActive": 61,
+    "films": 93,
+    "daysActive": 62,
     "streak": 2
   },
   "monthLabels": [
@@ -8333,10 +8333,77 @@
       "date": "2026-11-25",
       "week": 99,
       "weekday": 3,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 11,
+      "ratingAvg": 4.2,
+      "films": [
+        {
+          "title": "Toy Catalogue",
+          "year": "1996",
+          "rating": 5,
+          "url": "https://letterboxd.com/goose060/film/toy-catalogue/1/"
+        },
+        {
+          "title": "Down on Me",
+          "year": "1981",
+          "rating": 4.5,
+          "url": "https://letterboxd.com/goose060/film/down-on-me/1/"
+        },
+        {
+          "title": "Angel Baby",
+          "year": "1979",
+          "rating": 3,
+          "url": "https://letterboxd.com/goose060/film/angel-baby-1979/1/"
+        },
+        {
+          "title": "Light Sleeper",
+          "year": "2011",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/goose060/film/light-sleeper-2011/1/"
+        },
+        {
+          "title": "Swinging",
+          "year": "1981",
+          "rating": 4,
+          "url": "https://letterboxd.com/goose060/film/swinging-1981/1/"
+        },
+        {
+          "title": "Firefly",
+          "year": "1980",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/goose060/film/firefly-1980/1/"
+        },
+        {
+          "title": "Amusement Park",
+          "year": "1979",
+          "rating": 5,
+          "url": "https://letterboxd.com/goose060/film/amusement-park-1979/"
+        },
+        {
+          "title": "Santa Claus Parade",
+          "year": "1976",
+          "rating": 5,
+          "url": "https://letterboxd.com/goose060/film/santa-claus-parade/"
+        },
+        {
+          "title": "Mother and Child",
+          "year": "1977",
+          "rating": 4.5,
+          "url": "https://letterboxd.com/goose060/film/mother-and-child-1977/"
+        },
+        {
+          "title": "Landscape",
+          "year": "1977",
+          "rating": 4,
+          "url": "https://letterboxd.com/goose060/film/landscape-1977/"
+        },
+        {
+          "title": "Cinefuge 4 & 5",
+          "year": "1981",
+          "rating": 4,
+          "url": "https://letterboxd.com/goose060/film/cinefuge-4-5/"
+        }
+      ],
+      "level": 4,
       "inRange": true,
       "url": "https://letterboxd.com/goose060/diary/films/for/2026/11/25/"
     },
@@ -9717,78 +9784,152 @@
         }
       ],
       "url": "https://letterboxd.com/goose060/diary/films/for/2026/11/24/"
+    },
+    {
+      "date": "2026-11-25",
+      "count": 11,
+      "ratingAvg": 4.2,
+      "films": [
+        {
+          "title": "Toy Catalogue",
+          "year": "1996",
+          "rating": 5,
+          "url": "https://letterboxd.com/goose060/film/toy-catalogue/1/"
+        },
+        {
+          "title": "Down on Me",
+          "year": "1981",
+          "rating": 4.5,
+          "url": "https://letterboxd.com/goose060/film/down-on-me/1/"
+        },
+        {
+          "title": "Angel Baby",
+          "year": "1979",
+          "rating": 3,
+          "url": "https://letterboxd.com/goose060/film/angel-baby-1979/1/"
+        },
+        {
+          "title": "Light Sleeper",
+          "year": "2011",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/goose060/film/light-sleeper-2011/1/"
+        },
+        {
+          "title": "Swinging",
+          "year": "1981",
+          "rating": 4,
+          "url": "https://letterboxd.com/goose060/film/swinging-1981/1/"
+        },
+        {
+          "title": "Firefly",
+          "year": "1980",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/goose060/film/firefly-1980/1/"
+        },
+        {
+          "title": "Amusement Park",
+          "year": "1979",
+          "rating": 5,
+          "url": "https://letterboxd.com/goose060/film/amusement-park-1979/"
+        },
+        {
+          "title": "Santa Claus Parade",
+          "year": "1976",
+          "rating": 5,
+          "url": "https://letterboxd.com/goose060/film/santa-claus-parade/"
+        },
+        {
+          "title": "Mother and Child",
+          "year": "1977",
+          "rating": 4.5,
+          "url": "https://letterboxd.com/goose060/film/mother-and-child-1977/"
+        },
+        {
+          "title": "Landscape",
+          "year": "1977",
+          "rating": 4,
+          "url": "https://letterboxd.com/goose060/film/landscape-1977/"
+        },
+        {
+          "title": "Cinefuge 4 & 5",
+          "year": "1981",
+          "rating": 4,
+          "url": "https://letterboxd.com/goose060/film/cinefuge-4-5/"
+        }
+      ],
+      "url": "https://letterboxd.com/goose060/diary/films/for/2026/11/25/"
     }
   ],
   "recent": [
     {
-      "date": "2026-11-24",
-      "title": "Star Trek: First Contact",
+      "date": "2026-11-25",
+      "title": "Toy Catalogue",
       "year": "1996",
+      "rating": 5,
+      "url": "https://letterboxd.com/goose060/film/toy-catalogue/1/"
+    },
+    {
+      "date": "2026-11-25",
+      "title": "Down on Me",
+      "year": "1981",
       "rating": 4.5,
-      "url": "https://letterboxd.com/goose060/film/star-trek-first-contact/"
+      "url": "https://letterboxd.com/goose060/film/down-on-me/1/"
     },
     {
-      "date": "2026-11-18",
-      "title": "Elevator to the Gallows",
-      "year": "1958",
-      "rating": 3.5,
-      "url": "https://letterboxd.com/goose060/film/elevator-to-the-gallows/"
-    },
-    {
-      "date": "2026-11-17",
-      "title": "The Wolf House",
-      "year": "2018",
-      "rating": 4.5,
-      "url": "https://letterboxd.com/goose060/film/the-wolf-house/"
-    },
-    {
-      "date": "2026-11-17",
-      "title": "Taxi Driver",
-      "year": "1976",
-      "rating": 3.5,
-      "url": "https://letterboxd.com/goose060/film/taxi-driver/1/"
-    },
-    {
-      "date": "2026-11-10",
-      "title": "Odds Against Tomorrow",
-      "year": "1959",
-      "rating": 3.5,
-      "url": "https://letterboxd.com/goose060/film/odds-against-tomorrow/"
-    },
-    {
-      "date": "2026-11-05",
-      "title": "Harold & Kumar Go to White Castle",
-      "year": "2004",
+      "date": "2026-11-25",
+      "title": "Angel Baby",
+      "year": "1979",
       "rating": 3,
-      "url": "https://letterboxd.com/goose060/film/harold-kumar-go-to-white-castle/"
+      "url": "https://letterboxd.com/goose060/film/angel-baby-1979/1/"
     },
     {
-      "date": "2026-10-05",
-      "title": "Fast Times at Ridgemont High",
-      "year": "1982",
-      "rating": 4,
-      "url": "https://letterboxd.com/goose060/film/fast-times-at-ridgemont-high/"
+      "date": "2026-11-25",
+      "title": "Light Sleeper",
+      "year": "2011",
+      "rating": 3.5,
+      "url": "https://letterboxd.com/goose060/film/light-sleeper-2011/1/"
     },
     {
-      "date": "2026-10-04",
-      "title": "Nice Dreams",
+      "date": "2026-11-25",
+      "title": "Swinging",
       "year": "1981",
       "rating": 4,
-      "url": "https://letterboxd.com/goose060/film/nice-dreams/"
+      "url": "https://letterboxd.com/goose060/film/swinging-1981/1/"
     },
     {
-      "date": "2026-09-29",
-      "title": "The Silence of the Lambs",
-      "year": "1991",
+      "date": "2026-11-25",
+      "title": "Firefly",
+      "year": "1980",
+      "rating": 3.5,
+      "url": "https://letterboxd.com/goose060/film/firefly-1980/1/"
+    },
+    {
+      "date": "2026-11-25",
+      "title": "Amusement Park",
+      "year": "1979",
       "rating": 5,
-      "url": "https://letterboxd.com/goose060/film/the-silence-of-the-lambs/"
+      "url": "https://letterboxd.com/goose060/film/amusement-park-1979/"
     },
     {
-      "date": "2026-09-27",
-      "title": "The Killing",
-      "year": "1956",
+      "date": "2026-11-25",
+      "title": "Santa Claus Parade",
+      "year": "1976",
+      "rating": 5,
+      "url": "https://letterboxd.com/goose060/film/santa-claus-parade/"
+    },
+    {
+      "date": "2026-11-25",
+      "title": "Mother and Child",
+      "year": "1977",
       "rating": 4.5,
-      "url": "https://letterboxd.com/goose060/film/the-killing/"
+      "url": "https://letterboxd.com/goose060/film/mother-and-child-1977/"
+    },
+    {
+      "date": "2026-11-25",
+      "title": "Landscape",
+      "year": "1977",
+      "rating": 4,
+      "url": "https://letterboxd.com/goose060/film/landscape-1977/"
     }
   ]
 }
